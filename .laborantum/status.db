@@ -4,14 +4,14 @@
             "path": "/texts/course/config.yml",
             "status": {
                 "total": 34,
-                "correct": 0.42857142857142855
+                "correct": 1
             }
         },
         {
             "path": "/texts/course/1. Vectors/config.yml",
             "status": {
                 "total": 34,
-                "correct": 0.42857142857142855
+                "correct": 1
             }
         }
     ],
@@ -20,15 +20,15 @@
             "path": "/texts/course/1. Vectors/Length of Vector Proof/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0.42857142857142855,
+                "correct": 1,
                 "selectedVariantIds": [
                     0,
                     1,
-                    5,
-                    6,
-                    4,
+                    2,
                     3,
-                    2
+                    4,
+                    5,
+                    6
                 ]
             }
         },
