@@ -4,7 +4,7 @@
             "path": "/texts/course/config.yml",
             "status": {
                 "total": 111,
-                "correct": 14
+                "correct": 15
             }
         },
         {
@@ -18,7 +18,7 @@
             "path": "/texts/course/2. Vector Spaces/config.yml",
             "status": {
                 "total": 39,
-                "correct": 5
+                "correct": 6
             }
         },
         {
@@ -265,8 +265,15 @@
             "path": "/texts/course/2. Vector Spaces/Coordinates/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    5,
+                    8,
+                    3,
+                    7,
+                    2,
+                    4
+                ]
             }
         },
         {
