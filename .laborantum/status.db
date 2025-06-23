@@ -4,7 +4,7 @@
             "path": "/texts/course/config.yml",
             "status": {
                 "total": 111,
-                "correct": 10
+                "correct": 13
             }
         },
         {
@@ -18,7 +18,7 @@
             "path": "/texts/course/2. Vector Spaces/config.yml",
             "status": {
                 "total": 39,
-                "correct": 1
+                "correct": 4
             }
         },
         {
@@ -191,24 +191,36 @@
             "path": "/texts/course/2. Vector Spaces/Linear Dependency/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    6,
+                    0
+                ]
             }
         },
         {
             "path": "/texts/course/2. Vector Spaces/Linear Independency 1/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    4,
+                    5,
+                    6,
+                    3,
+                    0
+                ]
             }
         },
         {
             "path": "/texts/course/2. Vector Spaces/Linear Independency 2/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    4,
+                    2
+                ]
             }
         },
         {
@@ -216,7 +228,16 @@
             "status": {
                 "total": 1,
                 "correct": 0,
-                "selectedVariantIds": []
+                "selectedVariantIds": [
+                    1,
+                    6,
+                    4,
+                    7,
+                    2,
+                    3,
+                    0,
+                    5
+                ]
             }
         },
         {
