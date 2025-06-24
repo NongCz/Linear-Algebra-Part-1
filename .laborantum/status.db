@@ -4,7 +4,7 @@
             "path": "/texts/course/config.yml",
             "status": {
                 "total": 111,
-                "correct": 22
+                "correct": 23
             }
         },
         {
@@ -32,7 +32,7 @@
             "path": "/texts/course/4. Linear Transforms/config.yml",
             "status": {
                 "total": 15,
-                "correct": 1
+                "correct": 2
             }
         }
     ],
@@ -398,8 +398,14 @@
             "path": "/texts/course/4. Linear Transforms/Linear Transforms/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    10,
+                    6,
+                    11,
+                    8,
+                    4
+                ]
             }
         },
         {
