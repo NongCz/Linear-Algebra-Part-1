@@ -3,7 +3,7 @@
         {
             "path": "/texts/course/config.yml",
             "status": {
-                "total": 161,
+                "total": 229,
                 "correct": 61
             }
         },
@@ -39,6 +39,13 @@
             "path": "/texts/course/5. Gauss Elimination/config.yml",
             "status": {
                 "total": 50,
+                "correct": 0
+            }
+        },
+        {
+            "path": "/texts/course/6. Determinants/config.yml",
+            "status": {
+                "total": 68,
                 "correct": 0
             }
         }
@@ -4752,6 +4759,78 @@
         },
         {
             "path": "/texts/course/5. Gauss Elimination/Coding and Applying Gauss Elimination/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/6. Determinants/Definition/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/6. Determinants/Properties/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/6. Determinants/Permutations Formula/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/6. Determinants/Permutations II/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/6. Determinants/Cramer's Rule/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/6. Determinants/Recurrent Formula and Cofactors/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/6. Determinants/Determinant Computation Algorithm/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/6. Determinants/Jacobian Matrix and Its Determinant/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/6. Determinants/Reflection Matrix/config.yml",
             "status": {
                 "total": 1,
                 "correct": 0,
