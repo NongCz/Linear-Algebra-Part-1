@@ -4,7 +4,7 @@
             "path": "/texts/course/config.yml",
             "status": {
                 "total": 229,
-                "correct": 84.33333333333333
+                "correct": 91
             }
         },
         {
@@ -25,7 +25,7 @@
             "path": "/texts/course/3. Matrices/config.yml",
             "status": {
                 "total": 23,
-                "correct": 16.333333333333332
+                "correct": 23
             }
         },
         {
@@ -46,6 +46,13 @@
             "path": "/texts/course/6. Determinants/config.yml",
             "status": {
                 "total": 68,
+                "correct": 0
+            }
+        },
+        {
+            "path": "/texts/course/7. Eigen Values and Eigen Vectors/config.yml",
+            "status": {
+                "total": 1,
                 "correct": 0
             }
         }
@@ -4705,7 +4712,7 @@
         {
             "path": "/texts/course/3. Matrices/Matrix Product/config.yml",
             "status": {
-                "correct": 3.333333333333333,
+                "correct": 10,
                 "total": 10,
                 "testStatus": [
                     {
@@ -4735,8 +4742,8 @@
                     },
                     {
                         "name": "root -> task2 -> 2",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.0"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task2 -> 3",
@@ -4760,8 +4767,8 @@
                     },
                     {
                         "name": "root -> task2 -> 7",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 174762.66666666666"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task2 -> 8",
@@ -4825,203 +4832,203 @@
                     },
                     {
                         "name": "root -> task4_1 -> 0",
-                        "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4_1 -> 1",
-                        "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4_1 -> 2",
-                        "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4_1 -> 3",
-                        "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4_1 -> 4",
-                        "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4_1 -> 5",
-                        "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4_1 -> 6",
-                        "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4_1 -> 7",
-                        "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4_1 -> 8",
-                        "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4_1 -> 9",
-                        "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4_2 -> 0",
-                        "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4_2 -> 1",
-                        "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4_2 -> 2",
-                        "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4_2 -> 3",
-                        "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4_2 -> 4",
-                        "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4_2 -> 5",
-                        "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4_2 -> 6",
-                        "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4_2 -> 7",
-                        "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4_2 -> 8",
-                        "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4_2 -> 9",
-                        "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 0 -> 0",
-                        "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 0 -> 1",
-                        "ok": false,
-                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 1 -> 0",
-                        "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 1 -> 1",
-                        "ok": false,
-                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 2 -> 0",
-                        "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 2 -> 1",
-                        "ok": false,
-                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 3 -> 0",
-                        "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 3 -> 1",
-                        "ok": false,
-                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 4 -> 0",
-                        "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 4 -> 1",
-                        "ok": false,
-                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 5 -> 0",
-                        "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 5 -> 1",
-                        "ok": false,
-                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 6 -> 0",
-                        "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 6 -> 1",
-                        "ok": false,
-                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 7 -> 0",
-                        "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 7 -> 1",
-                        "ok": false,
-                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 8 -> 0",
-                        "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 8 -> 1",
-                        "ok": false,
-                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 9 -> 0",
-                        "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 9 -> 1",
-                        "ok": false,
-                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                        "ok": true,
+                        "status": "OK"
                     }
                 ]
             }
