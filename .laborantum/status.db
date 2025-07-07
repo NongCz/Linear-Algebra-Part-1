@@ -4,7 +4,7 @@
             "path": "/texts/course/config.yml",
             "status": {
                 "total": 229,
-                "correct": 109
+                "correct": 119
             }
         },
         {
@@ -39,7 +39,7 @@
             "path": "/texts/course/5. Gauss Elimination/config.yml",
             "status": {
                 "total": 50,
-                "correct": 0
+                "correct": 10
             }
         },
         {
@@ -5339,9 +5339,130 @@
         {
             "path": "/texts/course/5. Gauss Elimination/Manual Exercises Square Matrices/config.yml",
             "status": {
-                "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 10,
+                "total": 10,
+                "testStatus": [
+                    {
+                        "name": "root -> task1 -> A",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task1 -> y",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task1 -> x",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task1 -> inverse",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task1 -> L",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task1 -> U",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task2 -> A",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task2 -> y",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task2 -> x",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task2 -> inverse",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task2 -> L",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task2 -> U",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task3 -> A",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task3 -> y",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task3 -> x",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task3 -> inverse",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task3 -> L",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task3 -> U",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task4 -> A",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task4 -> y",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task4 -> x",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task4 -> inverse",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task4 -> L",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task4 -> U",
+                        "ok": true,
+                        "status": "OK"
+                    }
+                ]
             }
         },
         {
