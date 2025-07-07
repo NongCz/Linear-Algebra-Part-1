@@ -4,7 +4,7 @@
             "path": "/texts/course/config.yml",
             "status": {
                 "total": 229,
-                "correct": 101
+                "correct": 104
             }
         },
         {
@@ -46,7 +46,7 @@
             "path": "/texts/course/6. Determinants/config.yml",
             "status": {
                 "total": 68,
-                "correct": 0
+                "correct": 3
             }
         },
         {
@@ -5363,9 +5363,15 @@
         {
             "path": "/texts/course/6. Determinants/Definition/config.yml",
             "status": {
-                "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "total": 3,
+                "correct": 3,
+                "selectedVariantIds": [
+                    7,
+                    4,
+                    2,
+                    6,
+                    9
+                ]
             }
         },
         {
